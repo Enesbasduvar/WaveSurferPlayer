@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wave Effect</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/wavesurfer.min.js"></script>
+    <script src="./js/script.js"></script>
+
+</head>
+<body>
+<div class="container">
+    <div class="music-player">
+        <img src="./assets/music-icon.jpg" alt="music-icon" id="music-icon">
+        <div class="info">
+            <h1>Valse</h1>
+            <div id="waveform"></div>
+            <br>
+            <div class="control-bar">
+                <img src="./assets/play.png" alt="play" id="playBtn" title="Play / Pause">
+                <img src="./assets/stop.png" alt="stop" id="stopBtn" title="Stop">
+                <img src="./assets/volume.png" alt="volume" id="volumeBtn" title="Mute / Unmute">
+            </div>
+        </div>
+        <div class="playlist">
+            <ul id="playlist">
+                <li data-src="assets/valse.mp3">Valse</li>
+                <li data-src="assets/b.mp3">Fairy Tale B</li>
+                <li data-src="assets/c.mp3">Fairy Tale C</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
