@@ -2,7 +2,7 @@
 
 WaveSurferPlayer is a modern music player that utilizes `WaveSurfer.js` to play and visualize music files. It provides a user-friendly interface and easy controls to visualize sound waves while enjoying your music.
 
-![WaveSurferPlayer](./assets/img.png)
+![WaveSurferPlayer](https://github.com/Enesbasduvar/WaveSurferPlayer/blob/main/assets/img.PNG)
 
 ## Features
 
