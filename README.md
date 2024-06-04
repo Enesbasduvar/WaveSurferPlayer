@@ -40,6 +40,7 @@ To run the project locally, follow these steps:
 - **Stop**: Click the `stop` button to stop the music.
 - **Volume**: Click the `volume` button to mute or unmute the sound.
 - **Track Selection**: Click on a track in the playlist to select it.
+[Enes Başduvar] (https://github.com/enesbasduvar)  
 
 ## License
 
